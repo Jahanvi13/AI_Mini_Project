@@ -1,2 +1,2 @@
 # AI_Mini_Project
-I developed "Handwritten Digit Recognition" based on AI and some Deep Learning Concepts.
+Designed and implemented a cutting-edge Handwritten Digit Recognition system that transformed handwritten digits into machine-readable formats, revolutionizing error-free banking operations.
